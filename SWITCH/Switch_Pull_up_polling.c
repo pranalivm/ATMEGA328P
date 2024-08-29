@@ -1,11 +1,4 @@
 
-/*
- * GccApplication1.c
- *
- * Created: 02-11-2023 11.31.09 PM
- * Author : Admin
- */ 
-
 
 #include <avr/io.h>        // AVR I/O declarations
 #include <util/delay.h>    // AVR delay functions
